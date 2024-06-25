@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz1_penkina", "pz1_penkina\pz1_penkina.csproj", "{C372147C-E551-403A-9DEC-CBE52178A72A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C372147C-E551-403A-9DEC-CBE52178A72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C372147C-E551-403A-9DEC-CBE52178A72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C372147C-E551-403A-9DEC-CBE52178A72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C372147C-E551-403A-9DEC-CBE52178A72A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21C6C93E-5516-48BC-AF11-52AF8B4FCDB5}
+	EndGlobalSection
+EndGlobal
